@@ -6,10 +6,10 @@ On-Chain: https://3lwxi-dyaaa-aaaak-ac4ga-cai.ic0.app/
 
 This project has only been uploaded with major files:
 
---Frontend-- 
+--Frontend--
 React files for .jsx
 
---Backend-- 
+--Backend--
 Motoko files for .mo
 
 the purpose is to show my coding skill for interviewer or someone who would like to hire me.
