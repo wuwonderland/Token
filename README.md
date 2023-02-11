@@ -1,7 +1,6 @@
-# Token
+# Genius Coin: Token Faucet On Internet Computer
 
-Token Faucet On Internet Computer
-
+### [Live Site](https://3lwxi-dyaaa-aaaak-ac4ga-cai.ic0.app/)
 On-Chain: https://3lwxi-dyaaa-aaaak-ac4ga-cai.ic0.app/
 
 This project has only been uploaded with major files:
